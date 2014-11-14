@@ -1,0 +1,8 @@
+D:\Programs\C# Visual Studio 2010 Workspace\FastReader\FastReader\bin\Debug\FastReader.exe
+D:\Programs\C# Visual Studio 2010 Workspace\FastReader\FastReader\bin\Debug\FastReader.pdb
+D:\Programs\C# Visual Studio 2010 Workspace\FastReader\FastReader\obj\x86\Debug\FastReader.Form1.resources
+D:\Programs\C# Visual Studio 2010 Workspace\FastReader\FastReader\obj\x86\Debug\FastReader.Properties.Resources.resources
+D:\Programs\C# Visual Studio 2010 Workspace\FastReader\FastReader\obj\x86\Debug\FastReader.csproj.GenerateResource.Cache
+D:\Programs\C# Visual Studio 2010 Workspace\FastReader\FastReader\obj\x86\Debug\FastReader.exe
+D:\Programs\C# Visual Studio 2010 Workspace\FastReader\FastReader\obj\x86\Debug\FastReader.pdb
+D:\Programs\C# Visual Studio 2010 Workspace\FastReader\FastReader\obj\x86\Debug\FastReader.csprojResolveAssemblyReference.cache

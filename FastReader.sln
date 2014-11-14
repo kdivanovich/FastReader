@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastReader", "FastReader\FastReader.csproj", "{D827BF22-EC36-491B-8913-F3D59B93AD7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D827BF22-EC36-491B-8913-F3D59B93AD7A}.Debug|x86.ActiveCfg = Debug|x86
+		{D827BF22-EC36-491B-8913-F3D59B93AD7A}.Debug|x86.Build.0 = Debug|x86
+		{D827BF22-EC36-491B-8913-F3D59B93AD7A}.Release|x86.ActiveCfg = Release|x86
+		{D827BF22-EC36-491B-8913-F3D59B93AD7A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
